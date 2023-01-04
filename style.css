@@ -1,0 +1,15 @@
+html body {
+    background-color: rgb(122, 217, 248, 0.5);
+}
+
+.headerBG {
+    background-color: rgb(94, 111, 200, 0.5);
+}
+
+.createCaseBtn {
+    background-color: rgb(255, 153, 109);
+}
+
+.notificationBtn {
+    background-color: rgb(203, 171, 254);
+}
